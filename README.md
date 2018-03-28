@@ -4,7 +4,7 @@ A simple tool for searching for a string and then searching for a second string 
 
 C++ version  [C++ Version](https://github.com/adamb3ll/fileparser)
 
-Swift version  [C++ Version](https://github.com/adamb3ll/fileparser_swift)
+Swift version  [Swift Version](https://github.com/adamb3ll/fileparser_swift)
 
 
 ```
